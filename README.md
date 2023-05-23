@@ -13,3 +13,6 @@ all the changes i made are currently in single file src/App.js
 2. Code cleanup is left
 3. Some styling issues are there
 4. Make seperate components and css file (This will be the last step, keep single file for now)
+
+## Pending tasks
+If you want to push anything on this repo, first add gitignore file and add node_modules folder there.
