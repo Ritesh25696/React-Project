@@ -9,7 +9,7 @@
 ## Pending tasks
 all the changes i made are currently in single file src/App.js
 
-Drag and drop functionality is left
-Code cleanup is left
-Some styling issues are there
-Make seperate components and css file (This will be the last step, keep single file for now)
+1. Drag and drop functionality is left
+2. Code cleanup is left
+3. Some styling issues are there
+4. Make seperate components and css file (This will be the last step, keep single file for now)
